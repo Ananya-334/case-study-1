@@ -1,0 +1,21 @@
+.body_background{
+    background:linear-gradient(#43e053,#e1eb31,#eb6c31);
+}
+h1{
+    font-family: 'Oswald', sans-serif;
+    color:black
+}
+h1 img{
+    width: 150px;
+    margin-left: 50px;
+    border-radius: 25px;
+}
+h5{
+    color:black;
+}
+li{
+    color:black;
+}
+h4{
+    color:black;
+}
